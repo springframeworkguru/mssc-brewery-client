@@ -70,7 +70,7 @@
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>3.0.0-M3</version>
             </plugin>
-<!--            require maven 3.60 or higher, require Java 11 or higher-->
+<!--            require maven 3.6.0 or higher, require Java 11 or higher-->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-enforcer-plugin</artifactId>
